@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login">LOGIN</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">REGISTRATION</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string-array name="gender">
+        <item name="gender">Gender</item>
+        <item name="male">Male</item>
+        <item name="female">Female</item>
+    </string-array>
+    <string name="sign_up">Sign Up</string>
+    <string name="submit">SUBMIT</string>
+</resources>
